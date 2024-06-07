@@ -1,0 +1,36 @@
+.project-management {
+  padding: 20px;
+}
+
+.project-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.project-list th, .project-list td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.project-list th {
+  background-color: #f4f4f4;
+}
+
+.project-list button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.project-list button:last-child {
+  background-color: #dc3545;
+}
+
+.project-list button:hover {
+  opacity: 0.8;
+}

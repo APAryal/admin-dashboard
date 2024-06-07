@@ -1,0 +1,18 @@
+.error-reporting {
+  padding: 20px;
+}
+
+.error-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.error-list th, .error-list td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.error-list th {
+  background-color: #f4f4f4;
+}

@@ -1,0 +1,18 @@
+.system-monitoring {
+  padding: 20px;
+}
+
+.metrics-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.metrics-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.metrics-list .metric-name {
+  font-weight: bold;
+  margin-right: 10px;
+}

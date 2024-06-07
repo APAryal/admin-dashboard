@@ -1,0 +1,28 @@
+.dashboard {
+  margin-left: 250px;
+  padding: 20px;
+}
+
+.widgets {
+  display: flex;
+  justify-content: space-around;
+}
+
+.widget {
+  background-color: #ecf0f1;
+  padding: 20px;
+  border-radius: 8px;
+  flex: 1;
+  margin: 10px;
+  text-align: center;
+}
+
+.charts {
+  margin-top: 20px;
+}
+
+.chart {
+  background-color: #ecf0f1;
+  padding: 20px;
+  border-radius: 8px;
+}
